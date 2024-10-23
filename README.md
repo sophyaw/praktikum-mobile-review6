@@ -1,4 +1,6 @@
-# pertemuan7
+# NAMA : Sophy Awaliah
+# NIM : 2209106072
+
 
 A new Flutter project.
 
